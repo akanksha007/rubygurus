@@ -57,7 +57,7 @@ Find more details about above quote link:http://blog.steveklabnik.com/posts/2011
 
 == Ruby Basics - Section 1
 
-- What is Ruby
+- xref:what-is-ruby.adoc#[What is Ruby]
 - History of Ruby
 - Ruby Features
 - Hello World
